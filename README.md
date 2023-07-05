@@ -60,5 +60,3 @@ Where can i found my generated accounts?
 It is located in the output folder. Open up login.txt to see the accounts 
 that has been generated.
 
-
-
